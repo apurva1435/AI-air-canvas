@@ -43,7 +43,3 @@ cd AI-air-canvas
 py -3.11 air_canvas.py
 
 
-
-
-
-
