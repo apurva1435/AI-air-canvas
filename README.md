@@ -36,3 +36,10 @@ The system uses AI-powered hand tracking to convert finger movements into digita
 ```bash
 pip install -r requirements.txt
 py -3.11 air_canvas.py
+
+or
+cd AI-air-canvas
+py -3.11 air_canvas.py
+
+
+
